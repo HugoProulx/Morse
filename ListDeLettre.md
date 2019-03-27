@@ -2,17 +2,17 @@
 Projet scholaire pour faire l'alphabet en morse.
 a
 b
-c
+c = Hugo
 d
-e
-f
+e = Hugo
+f = Hugo
 g
 h
 i
 j
-k
+k = Hugo
 l
-m
+m = Hugo
 n
 o
 p
@@ -20,9 +20,10 @@ q
 r
 s
 t
-u
+u = Hugo
 v
 w
 x
 y
-z
+z = Hugo
+
