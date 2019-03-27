@@ -10,6 +10,6 @@ sleep(0.3)
 led.on()
 sleep(0.3)
 led.off()
-sleep(0.3)
+sleep(1)
 
 
