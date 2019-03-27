@@ -15,15 +15,15 @@ l =Willeme
 m = Hugo
 n
 o= Willeme
-p
-q
+p=alex
+q=alex
 r= Willeme
-s
-t
+s=alex
+t=alex
 u = Hugo
-v
+v=alex
 w= Willeme
 x= Willeme
-y
+y=alex
 z = Hugo
 
