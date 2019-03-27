@@ -8,22 +8,22 @@ e = Hugo
 f = Hugo
 g
 h
-i
+i=Willeme
 j
 k = Hugo
-l
+l =Willeme
 m = Hugo
 n
-o
+o= Willeme
 p
 q
-r
+r= Willeme
 s
 t
 u = Hugo
 v
-w
-x
+w= Willeme
+x= Willeme
 y
 z = Hugo
 
