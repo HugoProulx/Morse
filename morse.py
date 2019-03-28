@@ -56,3 +56,5 @@ for char in message:
 		os.system('python3 y.py')
 	elif char == 'z':
 		os.system('python3 z.py')
+	elif char == ' ':
+		os,system('python3 space.py')
