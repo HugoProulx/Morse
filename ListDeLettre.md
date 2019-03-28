@@ -1,29 +1,29 @@
 # Morse
 Projet scholaire pour faire l'alphabet en morse.
-a
-b
+a = Tom
+b = tom
 c = Hugo
-d
+d = tom
 e = Hugo
 f = Hugo
-g
-h
-i=Willeme
-j
+g = tom
+h = tom
+i = Willeme
+j = tom
 k = Hugo
-l =Willeme
+l = Willeme
 m = Hugo
-n
-o= Willeme
-p=alex
-q=alex
+n = tom
+o = Willeme
+p = alex
+q = alex
 r= Willeme
-s=alex
-t=alex
+s = alex
+t = alex
 u = Hugo
-v=alex
-w= Willeme
-x= Willeme
-y=alex
+v = alex
+w = Willeme
+x = Willeme
+y = alex
 z = Hugo
 
