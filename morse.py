@@ -58,4 +58,4 @@ for char in message.lower():
 	elif char == 'z':
 		os.system('python3 z.py')
 	elif char == ' ':
-		os,system('python3 space.py')
+		os.system('python3 space.py')
