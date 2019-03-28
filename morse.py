@@ -1,9 +1,10 @@
 import os
+import string
 
 message = input("Please enter your secret message")
 
 message.lower()
-for char in message:
+for char in message.lower():
 	if char == 'a':
 		os.system('python3 A.py')
 	elif char == 'b':
