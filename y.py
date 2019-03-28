@@ -9,9 +9,13 @@ led.off()
 sleep(0.3)
 led.on()
 sleep(0.3)
-led.off()
+led.off
 sleep(0.3)
 led.on()
+sleep(1)
+led.off
 sleep(0.3)
+led.on()
+sleep(1)
 led.off()
-
+sleep(1)
